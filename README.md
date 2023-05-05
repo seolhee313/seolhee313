@@ -1,12 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=6994CDEE&height=100)
+<br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=26&duration=4000&pause=1000&color=6994CDDA&width=435&lines=Welcome+to+seolhee's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
+<br>
+<hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee313%2Fhit-counter&count_bg=%2397D5FF&title_bg=%230089FF&icon=&icon_color=%233AA4FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ADCCFF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=nord&show_icons=true)
 
+<br>
+<br>
+<br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=algolia&show_icons=true)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={seolheeone}&postId={default})](https://seolheeone.tistory.com/)
 
 
 ###프로그래밍 & 마크업 언어
