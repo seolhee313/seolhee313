@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={seolheeone}&postId={default})](https://seolheeone.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=seolheeone&postId=default)](https://seolheeone.tistory.com)
 
 
 ###프로그래밍 & 마크업 언어
