@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center" dir="auto">
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94c02710ac6f38bfd6d647cbbf913d24c671eea4c0c8dbf30f1668087135fea3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3230302673656374696f6e3d68656164657226746578743d4779757070253230f09f91a9f09f8fbbe2808df09f92bb26666f6e7453697a653d3930"><img src="https://camo.githubusercontent.com/94c02710ac6f38bfd6d647cbbf913d24c671eea4c0c8dbf30f1668087135fea3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3230302673656374696f6e3d68656164657226746578743d4779757070253230f09f91a9f09f8fbbe2808df09f92bb26666f6e7453697a653d3930" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=200&amp;section=header&amp;text=Seol Hee%20👩🏻‍💻&amp;fontSize=90" style="max-width: 100%;"></a>	
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=algolia&show_icons=true)
 
