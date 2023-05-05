@@ -34,13 +34,13 @@
 <div>
   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"></a>
 </div>
-  <br><br><br>
+  <br><br>
   
   <h2>😎데이터베이스 & 클라우드 호스팅</h2>
 <div>
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
 </div>
-  <br><br><br>
+  <br><br>
   
   <h2>🛠️소프트웨어 & 툴🛠️</h2>
 <div>
