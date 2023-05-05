@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=algolia&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&show_icons=true&theme=radical)
 
 ###프로그래밍 & 마크업 언어
 <div>
