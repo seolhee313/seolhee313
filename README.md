@@ -12,9 +12,12 @@
 <br>
 <br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=seolheeone&postId=default)](https://seolheeone.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={soelheeone}&postId={default}&theme={santorini})](https://seolheeone.tistory.com/)
 
 
+<br>
+<br>
+<br>
 ###프로그래밍 & 마크업 언어
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
