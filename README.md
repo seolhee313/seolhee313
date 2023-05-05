@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=d6ace6&height=200&section=header&text=Seol%20Hee&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=6FC7E1&height=200&section=header&text=Seol%20Hee😎&fontSize=70)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=algolia&show_icons=true)
