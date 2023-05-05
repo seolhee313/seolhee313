@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=6FC7E1&height=200&section=header&text=Seol%20Hee😎&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=6994CDEE&height=100)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=26&duration=4000&pause=1000&color=6994CDDA&width=435&lines=Welcome+to+seolhee's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee313%2Fhit-counter&count_bg=%2397D5FF&title_bg=%230089FF&icon=&icon_color=%233AA4FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=algolia&show_icons=true)
