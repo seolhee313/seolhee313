@@ -12,8 +12,11 @@
 <br>
 <br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={soelheeone}&postId={default}&theme={santorini})](https://seolheeone.tistory.com/)
+<h2>💻DEV's log💻</h2>
 
+<img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=seolheeone&theme=default)](https://seolheeone.tistory.com/)
 
 <br>
 <br>
