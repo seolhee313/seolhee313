@@ -4,7 +4,8 @@
 <br>
 <hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ADCCFF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee313&count_bg=%2397C6ED&title_bg=%23515151&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=nord&show_icons=true)
 
