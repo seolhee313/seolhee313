@@ -3,9 +3,69 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=26&duration=4000&pause=1000&color=6994CDDA&width=435&lines=Welcome+to+seolhee's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
 <br>
 <br>
-## 🧡 포트폴리오 사이트
+
+<h2>😎WEB STANDARD PROJECT😎</h2>
+
+##  PORTFOLIO SITE
 vite로 제작한 포트폴리오 사이트 입니다.
 [PORTFOLIO](https://portfolio-313.web.app/)      
+
+##  STUDY SITE
+HTML, CSS를 사용하여 만든 웹 표준 사이트입니다.
+[WEB STANDARD](https://seolhee313.github.io/web2023/site/site1/index.html)   
+
+##  Domino’s PIZZA 클론 코딩 사이트
+도미노피자 공식 사이트의 디자인과 기능을 유사하게 보이도록 제작하였습니다.
+[Domino’s HTML](https://seolhee313.github.io/web2023/site/site2/index.html) 
+[Domino’s REACT](https://sitedomino-react01.netlify.app/) 
+
+##  REACT SITE
+Node.js를 통해 CMD에서 터미널을 설정하고 NPM으로 JS라이브러리를 설치한 후, 컴퍼넌트를 생성하여 싱글페이지를 출력시켜 만든 React 사이트입니다.
+[REACT SITE](https://sitecheon-react01.netlify.app/) 
+
+##  PHP(BLOG) SITE
+PHP를 사용해 웹 페이지를 제작하였습니다.
+[PHP SITE](http://gp2617.dothome.co.kr/php/main/main.php) 
+
+##  PHP(TEAM PROJECT) SITE
+PHP를 기반으로 “하루 한 지문” 이라는 독해력 향상을 위한 문학/비문학 문제 풀이 사이트입니다.
+[PHP SITE](http://gp2617.dothome.co.kr/php2/main/main.php) 
+
+##  VUE SITE
+REACT로 작성한 사이트 레이아웃을 그대로 VUE문법을 사용하여 사이트를 만들었습니다.
+[VUE SITE](https://sitecheon-vue01.netlify.app/) 
+
+##  YOUTUBE API
+REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
+[YOUTUBE API](https://sitecheon-youtube01.netlify.app/) 
+
+##  STUDY SITE
+학원에 다니며 수업 시간에 공부한 내용을 바로바로 작성하며 기록해 놓은 사이트입니다.
+[STUDY SITE](https://seolhee313.github.io/web2023/) 
+
+##  NEXT.JS SITE
+이 프로젝트는 Javascript Mastery 의 튜토리얼을 기반으로 제작하였습니다. NextJS 애플리케이션 작업에 익숙해지기 위해 이 프로젝트를 시작하였습니다.
+[NEXT.JS SITE](https://sitecheon-cars-showcase.netlify.app/) 
+<br>
+<br>
+<h2>😆INTRODUCE SCRIPT😆</h2>
+
+##  GAME EFFECT
+자바스크립트를 활용하여 게임이펙트를 구현한 웹사이트 입니다. 뮤직 플레이어와 테트리스 게임을 할 수 있습니다.
+[MUSIC GAME EFFECT](https://seolhee-game.web.app/) 
+[TETRIS GAME EFFECT](https://seolhee-game.web.app/) 
+
+##  PARALLAX EFFECT
+자바스크립트를 활용하여 패럴랙스 이펙트를 구현한 웹사이트 입니다. gsap를 이용한 여러가지 스크롤 애니메이션을 확인할 수 있습니다.
+[PARALLAX EFFECT](https://seolhee313.github.io/web2023/javascript/parallax/parallaxEffect01.html) 
+
+##  MOUSE HOVER EFFECT
+자바스크립트를 활용하여 마우스 오버 이펙트를 구현한 웹사이트 입니다. 여러 가지 마우스 오버 효과를 확인할 수 있습니다.
+[MOUSE HOVER EFFECT](https://seolhee313.github.io/web2023/javascript/mouse/mouseEffect01.html) 
+
+##  QUIZ EFFECT
+자바스크립트를 활용하여 퀴즈 이펙트를 구현한 웹사이트 입니다. 정보처리기능사, 웹디자인기능사 필기 기출문제로 제작되었습니다.
+[QUIZ EFFECT](https://seolhee313.github.io/web2023/javascript/quiz/quizEffect07.html) 
 
 <br>
 <br>
