@@ -5,7 +5,7 @@
 <br>
 ## 🧡 포트폴리오 사이트
 vite로 제작한 포트폴리오 사이트 입니다.
-[PORTFOLIO]([https://github.com/webstoryboy/webd2023](https://portfolio-313.web.app/)      
+[PORTFOLIO](https://portfolio-313.web.app/)      
 
 <br>
 <br>
