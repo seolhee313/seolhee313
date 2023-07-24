@@ -66,11 +66,9 @@ REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
 ##  QUIZ EFFECT
 자바스크립트를 활용하여 퀴즈 이펙트를 구현한 웹사이트 입니다. 정보처리기능사, 웹디자인기능사 필기 기출문제로 제작되었습니다.<br>
 [QUIZ EFFECT](https://seolhee313.github.io/web2023/javascript/quiz/quizEffect07.html) 
-
-<br>
-<br>
-<br>
 <hr>
+<br>
+<br>
 <h2>🔥GitHub Stats🔥</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=nord&show_icons=true)
