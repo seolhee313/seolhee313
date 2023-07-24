@@ -11,7 +11,7 @@ vite로 제작한 포트폴리오 사이트 입니다.
 [PORTFOLIO](https://portfolio-313.web.app/)      
 
 ##  STUDY SITE
-HTML, CSS를 사용하여 만든 웹 표준 사이트입니다.<br>
+HTML, CSS를 사용하여 만든 웹 표준 사이트입니다.
 [WEB STANDARD](https://seolhee313.github.io/web2023/site/site1/index.html)   
 
 ##  Domino’s PIZZA 클론 코딩 사이트
