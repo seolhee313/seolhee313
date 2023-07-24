@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h2>😎WEB STANDARD PROJECT😎</h2>
+<h1>😎WEB STANDARD PROJECT😎</h1>
 
 ##  PORTFOLIO SITE
 vite로 제작한 포트폴리오 사이트 입니다.
