@@ -42,7 +42,8 @@
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
 </div>
   <br><br>
-  
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=100&section=footer&" />
   <h2>🛠️소프트웨어 & 툴🛠️</h2>
 <div>
   <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000?logo=CodePen&logoColor=white"></a>
