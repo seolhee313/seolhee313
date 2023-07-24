@@ -27,19 +27,28 @@
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white"></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 <br>
   <br>
   <br>
   <h2>🖥️프레임워크 & 라이브러리🖥️</h2>
 <div>
-  <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"></a>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jQuery&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white">
+  <img alt="vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?logo=vuedotjs&logoColor=white">
+  <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white">
+  <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white">
+  <img alt="swiper" src="https://img.shields.io/badge/swiper-6332F6?logo=swiper&logoColor=white">
+  <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
 </div>
   <br><br>
   
   <h2>😎데이터베이스 & 클라우드 호스팅</h2>
 <div>
-  <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
+<img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white">
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white">
 </div>
   <br><br>
 
