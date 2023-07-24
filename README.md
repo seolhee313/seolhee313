@@ -2,9 +2,9 @@
 <br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=26&duration=4000&pause=1000&color=6994CDDA&width=435&lines=Welcome+to+seolhee's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
 <br>
-<hr>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee313&count_bg=%2397C6ED&title_bg=%23515151&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+<hr>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=nord&show_icons=true)
