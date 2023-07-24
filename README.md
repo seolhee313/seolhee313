@@ -11,12 +11,12 @@ vite로 제작한 포트폴리오 사이트 입니다.
 [PORTFOLIO](https://portfolio-313.web.app/)      
 
 ##  STUDY SITE
-HTML, CSS를 사용하여 만든 웹 표준 사이트입니다.
+HTML, CSS를 사용하여 만든 웹 표준 사이트입니다.<br>
 [WEB STANDARD](https://seolhee313.github.io/web2023/site/site1/index.html)   
 
 ##  Domino’s PIZZA 클론 코딩 사이트
-도미노피자 공식 사이트의 디자인과 기능을 유사하게 보이도록 제작하였습니다.
-[Domino’s HTML](https://seolhee313.github.io/web2023/site/site2/index.html) 
+도미노피자 공식 사이트의 디자인과 기능을 유사하게 보이도록 제작하였습니다.<br>
+[Domino’s HTML](https://seolhee313.github.io/web2023/site/site2/index.html) <br>
 [Domino’s REACT](https://sitedomino-react01.netlify.app/) 
 
 ##  REACT SITE
@@ -51,20 +51,20 @@ REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
 <h1>😆INTRODUCE SCRIPT😆</h1>
 
 ##  GAME EFFECT
-자바스크립트를 활용하여 게임이펙트를 구현한 웹사이트 입니다. 뮤직 플레이어와 테트리스 게임을 할 수 있습니다.
-[MUSIC GAME EFFECT](https://seolhee-game.web.app/) 
+자바스크립트를 활용하여 게임이펙트를 구현한 웹사이트 입니다. 뮤직 플레이어와 테트리스 게임을 할 수 있습니다.<br>
+[MUSIC GAME EFFECT](https://seolhee-game.web.app/)<br>
 [TETRIS GAME EFFECT](https://seolhee-game.web.app/) 
 
 ##  PARALLAX EFFECT
-자바스크립트를 활용하여 패럴랙스 이펙트를 구현한 웹사이트 입니다. gsap를 이용한 여러가지 스크롤 애니메이션을 확인할 수 있습니다.
+자바스크립트를 활용하여 패럴랙스 이펙트를 구현한 웹사이트 입니다. gsap를 이용한 여러가지 스크롤 애니메이션을 확인할 수 있습니다.<br>
 [PARALLAX EFFECT](https://seolhee313.github.io/web2023/javascript/parallax/parallaxEffect01.html) 
 
 ##  MOUSE HOVER EFFECT
-자바스크립트를 활용하여 마우스 오버 이펙트를 구현한 웹사이트 입니다. 여러 가지 마우스 오버 효과를 확인할 수 있습니다.
+자바스크립트를 활용하여 마우스 오버 이펙트를 구현한 웹사이트 입니다. 여러 가지 마우스 오버 효과를 확인할 수 있습니다.<br>
 [MOUSE HOVER EFFECT](https://seolhee313.github.io/web2023/javascript/mouse/mouseEffect01.html) 
 
 ##  QUIZ EFFECT
-자바스크립트를 활용하여 퀴즈 이펙트를 구현한 웹사이트 입니다. 정보처리기능사, 웹디자인기능사 필기 기출문제로 제작되었습니다.
+자바스크립트를 활용하여 퀴즈 이펙트를 구현한 웹사이트 입니다. 정보처리기능사, 웹디자인기능사 필기 기출문제로 제작되었습니다.<br>
 [QUIZ EFFECT](https://seolhee313.github.io/web2023/javascript/quiz/quizEffect07.html) 
 
 <br>
