@@ -48,7 +48,7 @@ REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
 [NEXT.JS SITE](https://sitecheon-cars-showcase.netlify.app/) 
 <br>
 <br>
-<h2>😆INTRODUCE SCRIPT😆</h2>
+<h1>😆INTRODUCE SCRIPT😆</h1>
 
 ##  GAME EFFECT
 자바스크립트를 활용하여 게임이펙트를 구현한 웹사이트 입니다. 뮤직 플레이어와 테트리스 게임을 할 수 있습니다.
