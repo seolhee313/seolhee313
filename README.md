@@ -8,6 +8,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee313&theme=nord&show_icons=true)
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seolhee313&layout=compact"><br><br>
 
 <br>
 <br>
