@@ -20,7 +20,7 @@ HTML, CSS를 사용하여 만든 웹 표준 사이트입니다.
 [Domino’s REACT](https://sitedomino-react01.netlify.app/) 
 
 ##  REACT SITE
-Node.js를 통해 CMD에서 터미널을 설정하고 NPM으로 JS라이브러리를 설치한 후, 컴퍼넌트를 생성하여 싱글페이지를 출력시켜 만든 React 사이트입니다.
+컴퍼넌트를 생성하여 싱글페이지를 출력시켜 만든 React 사이트입니다.
 [REACT SITE](https://sitecheon-react01.netlify.app/) 
 
 ##  PHP(BLOG) SITE
@@ -44,7 +44,8 @@ REACT로 YOUTUBE API를 활용해 제작한 유튜브 API 입니다.
 [STUDY SITE](https://seolhee313.github.io/web2023/) 
 
 ##  NEXT.JS SITE
-이 프로젝트는 Javascript Mastery 의 튜토리얼을 기반으로 제작하였습니다. NextJS 애플리케이션 작업에 익숙해지기 위해 이 프로젝트를 시작하였습니다.
+이 프로젝트는 Javascript Mastery 의 튜토리얼을 기반으로 제작하였습니다.<br>
+NextJS 애플리케이션 작업에 익숙해지기 위해 이 프로젝트를 시작하였습니다.
 [NEXT.JS SITE](https://sitecheon-cars-showcase.netlify.app/) 
 <br>
 <br>
