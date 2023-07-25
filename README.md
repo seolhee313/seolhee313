@@ -2,6 +2,7 @@
 <br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=26&duration=4000&pause=1000&color=6994CDDA&width=435&lines=Welcome+to+seolhee's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
 <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee313&count_bg=%2396CBF3&title_bg=%23909090&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
 <h1>😎WEB STANDARD PROJECT😎</h1>
